@@ -8,3 +8,7 @@
 // ["Russia", "Denmark", "Kazan"] -> []
 
 Console.Clear();
+
+string[] array = {"hello", "2", "world", ":-)", "1234", "1567", "-2", 
+"computer science", "Russia", "Den", "Kazan"};
+

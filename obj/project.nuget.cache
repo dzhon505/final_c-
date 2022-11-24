@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "48zoNMpwGmHJvoXoaHnWZped7yuRKfUHrJJlMaNgsXA3FYUXCBD91LO8gXXPfqIkmFYXRoizzOGdBhGNzBmwCA==",
+  "dgSpecHash": "6Qz5v/H74x3sbHGrgi3RORI/d1Zm3H5VqFg185ksTYAtKtwL/q+lFj4oECypGMtiosM4ay11fhy4ew5mkK9PpA==",
   "success": true,
   "projectFilePath": "/home/dzhon/Документы/GB/C#/examples/webinar C#/final_c#/final_c#.csproj",
   "expectedPackageFiles": [
-    "/home/dzhon/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.9/microsoft.aspnetcore.app.ref.6.0.9.nupkg.sha512"
+    "/home/dzhon/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.11/microsoft.aspnetcore.app.ref.6.0.11.nupkg.sha512",
+    "/home/dzhon/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.11/microsoft.netcore.app.host.linux-x64.6.0.11.nupkg.sha512"
   ],
   "logs": []
 }
