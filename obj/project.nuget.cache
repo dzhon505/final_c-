@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "48zoNMpwGmHJvoXoaHnWZped7yuRKfUHrJJlMaNgsXA3FYUXCBD91LO8gXXPfqIkmFYXRoizzOGdBhGNzBmwCA==",
+  "success": true,
+  "projectFilePath": "/home/dzhon/Документы/GB/C#/examples/webinar C#/final_c#/final_c#.csproj",
+  "expectedPackageFiles": [
+    "/home/dzhon/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.9/microsoft.aspnetcore.app.ref.6.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}
